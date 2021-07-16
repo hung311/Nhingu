@@ -6,7 +6,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Rất khó để nói 1 câu là tớ thích cậu😙',
     desc: 'nghe đên đây cậu vẫn muốn nghe tớ nói tiếp chứ',
-    btnYes: 'có, <33',
+    btnYes: 'ok, <33',
     btnNo: 'Không, :3',
     question:'tớ thích cậu. Còn ý cậu sao nói tớ nghe <3',
     btnReply: 'Gửi cho tớ <3',
