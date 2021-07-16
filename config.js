@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho tớ <3',
     reply: 'ok tớ đồng ý <3',
     mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    messDesc: 'từ giờ tớ sẽ gọi cậu là công chúa 😍 .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/bongcute.nhoccon' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
