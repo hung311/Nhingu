@@ -1,16 +1,18 @@
 const CONFIG = {
-    introTitle: 'Dương à!',
-    introDesc : Can you take a few minutes to talk to me?,
+    introTitle: 'dương à!',
+    introDesc: `ngồi nói chuyện với tớ 1 tí nha 
+    cậu mà thoát là cậu đồng ý làm vợ tớ đấy
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'rất khó nói 1 câu là tớ thích cậu 🥺',
-    desc: 'nhưng không nói tớ thấy rất khó chịu lên cậu cho mình nói nha',
-    btnYes: 'okiii <33',
-    btnNo: 'cút :3',
-    question:'cậu có thể làm ny tớ đc không <3',
+    title: 'Rất khó để nói 1 câu là tớ thích cậu😙',
+    desc: 'nghe đên đây cậu vẫn muốn nghe tớ nói tiếp chứ',
+    btnYes: 'có, <33',
+    btnNo: 'Không, :3',
+    question:'tớ thích cậu. Còn ý cậu sao nói tớ nghe <3',
     btnReply: 'Gửi cho tớ <3',
-    reply: 'ok tớ đồng ý <3',
+    reply: 'tớ cũng thích cậu <3',
     mess: 'tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
-    messDesc: 'từ giờ tớ sẽ gọi cậu là công chúa 😍 .',
+    messDesc: 'mình ib tiếp nha😍 .',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com/bongcute.nhoccon' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
