@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Dương à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introDesc : Can you take a few minutes to talk to me?,
     btnIntro: 'hihi',
     title: 'rất khó nói 1 câu là tớ thích cậu 🥺',
     desc: 'nhưng không nói tớ thấy rất khó chịu lên cậu cho mình nói nha',
